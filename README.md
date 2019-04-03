@@ -1,6 +1,6 @@
 # Sending Mail
 
-## By Chintala Sreevidya
+## By Sreevidya Chintala
 
 sending email using python source code.
 
